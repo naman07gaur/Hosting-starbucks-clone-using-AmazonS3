@@ -4,14 +4,14 @@
 2. Webpage to be hosted
 
 
-# create a bucket
+## Step-1: create a bucket
 
-###to create bucket
+## to create bucket
 
-open your aws console and go to s3 dashbord
+    Open your aws console and go to s3 dashbord
 
 
-1. click on create bucket
+# 1. click on create bucket
 
 ![Screenshot (51)](https://github.com/user-attachments/assets/5314653b-4951-4851-b585-035fb67cb486)
 
