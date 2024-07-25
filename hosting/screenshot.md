@@ -43,6 +43,49 @@
 
 ## Step-3: Enabling public access and writing policiy
 
+**to unblock public access**
+
+### 1. open bucket and click on permissions and then click on edit bucket settings
+![Screenshot (62)](https://github.com/user-attachments/assets/3e5f0068-2c91-45ce-abfd-2d2f298292ce)
+
+### 2. Uncheck the button and click on save changes
+![Screenshot (68)](https://github.com/user-attachments/assets/b6857b1f-f32c-4d17-b895-5884afa314e8)
+
+### 3. In permissions go to bucket policy and click on edit
+![Screenshot (69)](https://github.com/user-attachments/assets/2ed3254f-e1fb-41f1-ac8a-87b526bc4d00)
+
+### 4. Copy the policy from policy.json and paste there and save changes
+![Screenshot (70)](https://github.com/user-attachments/assets/7aceaffc-449d-4b4d-a6a6-478a4091ae27)
+
+## step-4: Enabling static hosting
+
+### 1. Open bucket and click on properties
+![Screenshot (71)](https://github.com/user-attachments/assets/e8ceb6b8-3f51-478f-b6a6-8849a58a6594)
+
+### 2. At the bottom click on edit at static website hosting
+![Screenshot (72)](https://github.com/user-attachments/assets/48e250f8-b1d4-482d-8f2a-ccc0a3542139)
+
+### 3. Click on enable
+![Screenshot (59)](https://github.com/user-attachments/assets/de6cb12a-1fae-4fa6-9f0b-e729fd54a8d6)
+
+### 4. Configure index.html
+      (enter name of webpage)
+![Screenshot (60)](https://github.com/user-attachments/assets/c3c95029-eaa9-43a8-8f65-1c88186caa5f)
+
+### 5. click on save changes at bottom right
+![Screenshot (61)](https://github.com/user-attachments/assets/7d11fcbd-127a-437e-94ee-52c15a7b3c89)
+
+### 6. Now u can see DNS generated at static hosting
+![Screenshot (66)](https://github.com/user-attachments/assets/d2df6d09-74f0-403f-b685-5dbe55d7fed3)
+
+## Step-5: Testing the DNS
+
+## 1. Open the link in diffrent browser
+![Screenshot (66)](https://github.com/user-attachments/assets/d2df6d09-74f0-403f-b685-5dbe55d7fed3)
+
+## 2. Now u can see the landing page of website
+![Screenshot (73)](https://github.com/user-attachments/assets/151d1382-6080-4d76-a7e1-9b0b4cd4db5d)
+
 
 
 
