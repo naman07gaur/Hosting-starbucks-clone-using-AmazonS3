@@ -9,7 +9,7 @@ Step 4: Add a bucket policy that makes your bucket content publicly available\
 Step 5: Configure an index document\
 Step 6: Configure an error document\
 Step 7: Test your website endpoint\
-Step 8: Clean up\
+Step 8: Clean up
 
 
 
