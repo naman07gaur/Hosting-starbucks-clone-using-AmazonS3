@@ -2,7 +2,7 @@
 
 ## Steps to follow
 
-Step 1: Create a bucket
+Step 1: Create a bucket\
 Step 2: Enable static website hosting
 Step 3: Edit Block Public Access settings
 Step 4: Add a bucket policy that makes your bucket content publicly available
